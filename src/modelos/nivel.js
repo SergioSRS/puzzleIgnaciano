@@ -49,19 +49,19 @@ const nivel =[
     },
     {
         nivel:7,
-        texto:"Soy un texto ignaciano7",
+        texto:"Su amiga Isabel Roser le dio el consejo de que empezase a estudiar. San Ignacio aprendío latín y se apuntó a la universidad. Estudió en Alcalá de Henares desde el año 1526 hasta 1527; estuvo viviendo y trabajando en el Hospital de Antezana como enfermero y como cocinero para los enfermos.",
         imagen:"../assets/img/ignacio7.png",
         numPiezas:"9",
-        x:111,
-        y:111
+        x:296,
+        y:206
     },
     {
         nivel:8,
         texto:"Soy un texto ignaciano8",
         imagen:"../assets/img/ignacio8.png",
         numPiezas:"9",
-        x:111,
-        y:111
+        x:294,
+        y:206
     },
     {
         nivel:9,
@@ -84,24 +84,24 @@ const nivel =[
         texto:"Soy un texto ignaciano11",
         imagen:"../assets/img/ignacio11.png",
         numPiezas:"16",
-        x:111,
-        y:111
+        x:220,
+        y:155
     },
     {
         nivel:12,
         texto:"Soy un texto ignaciano12",
         imagen:"../assets/img/ignacio12.png",
         numPiezas:"16",
-        x:180,
-        y:134
+        x:227,
+        y:153
     },
     {
         nivel:13,
         texto:"Soy un texto ignaciano13",
         imagen:"../assets/img/ignacio13.png",
         numPiezas:"25",
-        x:111,
-        y:111
+        x:182,
+        y:133
     },
     {
         nivel:14,
