@@ -3,7 +3,7 @@ const nivel =[
         nivel:1,
         texto:"Soy un texto ignaciano1",
         imagen:"../assets/img/ignacio1.png",
-        numPiezas:"4",
+        numPiezas:4,
         x:437,
         y:310
     },
@@ -11,7 +11,7 @@ const nivel =[
         nivel:2,
         texto:"Soy un texto ignaciano2",
         imagen:"../assets/img/ignacio2.png",
-        numPiezas:"4",
+        numPiezas:4,
         x:435,
         y:306
     },
@@ -19,7 +19,7 @@ const nivel =[
         nivel:3,
         texto:"En el tiempo de convalecencia, leyó los libros La vida de Cristo, del cartujo Ludolfo de Sajonia, y el Flos Sanctorum, que hicieron mella en él. Bajo la influencia de esos libros, se replanteó toda la vida e hizo autocrítica de su vida como soldado. Este deseo se vio acrecentado por una visión de la Virgen con el Niño Jesús, que provocó la definitiva conversión del soldado en religioso. De allí salió con la convicción de viajar a Jerusalén con la tarea de la conversión de los no cristianos en Tierra Santa.",
         imagen:"../assets/img/ignacio3.png",
-        numPiezas:"4",
+        numPiezas:4,
         x:444,
         y:308
     },
@@ -27,23 +27,23 @@ const nivel =[
         nivel:4,
         texto:"Soy un texto ignaciano4",
         imagen:"../assets/img/ignacio4.png",
-        numPiezas:"4",
+        numPiezas:4,
         x:434,
         y:311
     },
     {
         nivel:5,
-        texto:"Soy un texto ignaciano5",
+        texto:"San Ignacio de Loyola, se hospedó en el Monasterio de Montserrat de los benedictinos, en Barcelona, donde dejó sus armas y vestiduras militares frente a la imagen de la Virgen de Montserrat más conocida como La Moreneta, y comenzó su camino hacia Manresa descalzo y con harapos.",
         imagen:"../assets/img/ignacio5.png",
-        numPiezas:"9",
+        numPiezas:9,
         x:293,
         y:206
     },
     {
         nivel:6,
-        texto:"Soy un texto ignaciano6",
+        texto:"Cuando Ignacio dejó Loyola, no tenía en mente ningún plan definido para el futuro, sólo tenía claro su deseo de querer rivalizar con todos los santos haciendo penitencia. Su primer propósito fue el de hacer una confesión general, en el famoso santuario de Montserrat, donde, después de tres días de examinar su conciencia y tomar conciencia de sus pecados, se confesó, dio a un pobre la preciosa ropa que llevaba puesta, y se vistió una túnica talar o saco tosco, el cual le llegaba hasta los pies.",
         imagen:"../assets/img/ignacio6.png",
-        numPiezas:"9",
+        numPiezas:9,
         x:300,
         y:203
     },
@@ -51,7 +51,7 @@ const nivel =[
         nivel:7,
         texto:"Soy un texto ignaciano7",
         imagen:"../assets/img/ignacio7.png",
-        numPiezas:"9",
+        numPiezas:9,
         x:111,
         y:111
     },
@@ -59,7 +59,7 @@ const nivel =[
         nivel:8,
         texto:"Soy un texto ignaciano8",
         imagen:"../assets/img/ignacio8.png",
-        numPiezas:"9",
+        numPiezas:9,
         x:111,
         y:111
     },
@@ -67,7 +67,7 @@ const nivel =[
         nivel:9,
         texto:"En 1528 San Ignacio entró en la Universidad de París, donde estuvo más de 7 años, para aumentar su educación teológica y literaria, tratando de enseñar a los estudiantes sus Ejercicios Espirituales. Los Ejercicios Espirituales es un libro con oraciones y meditaciones para hacer durante 30 días y así acercar a la persona hacia Dios.",
         imagen:"../assets/img/ignacio9.png",
-        numPiezas:"16",
+        numPiezas:16,
         x:219,
         y:152
     },
@@ -75,7 +75,7 @@ const nivel =[
         nivel:10,
         texto:"Soy un texto ignaciano10",
         imagen:"../assets/img/ignacio10.png",
-        numPiezas:"16",
+        numPiezas:16,
         x:227,
         y:154
     },
@@ -83,15 +83,15 @@ const nivel =[
         nivel:11,
         texto:"Soy un texto ignaciano11",
         imagen:"../assets/img/ignacio11.png",
-        numPiezas:"16",
+        numPiezas:16,
         x:111,
         y:111
     },
     {
         nivel:12,
-        texto:"Soy un texto ignaciano12",
+        texto:"En su paso por Roma. Ignacio de Loyola predicó la palabra de Dios a personas de todo tipo; personas en situación de pobreza extrema, gente hospedada en hospitales, personas enfermas o con discapacidades y a propios creyentes . Tenía el apoyo de la gente, y empezó a ser conocido en las calles de Italia.",
         imagen:"../assets/img/ignacio12.png",
-        numPiezas:"16",
+        numPiezas:16,
         x:180,
         y:134
     },
@@ -99,7 +99,7 @@ const nivel =[
         nivel:13,
         texto:"Soy un texto ignaciano13",
         imagen:"../assets/img/ignacio13.png",
-        numPiezas:"25",
+        numPiezas:25,
         x:111,
         y:111
     },
@@ -107,7 +107,7 @@ const nivel =[
         nivel:14,
         texto:"Soy un texto ignaciano14",
         imagen:"../assets/img/ignacio14.png",
-        numPiezas:"25",
+        numPiezas:25,
         x:177,
         y:120
     },
@@ -115,7 +115,7 @@ const nivel =[
         nivel:15,
         texto:"En octubre de 1538, Ignacio se encaminó hacia Roma, junto con Fabre y Laínez, para la aprobación de la constitución de la nueva orden. Un grupo de cardenales se mostró a favor de la constitución y Paulo III confirmó la orden mediante la bula Regimini militantis (27 de septiembre de 1540), pero limitaba el número de sus miembros a sesenta. Esta limitación fue revocada a través de la bula Injunctum nobis (14 de marzo de 1543). Así nacía la Societas Iesu, la Compañía de Jesús o, como se le conoce comúnmente, «los Jesuitas».",
         imagen:"../assets/img/ignacio15.png",
-        numPiezas:"25",
+        numPiezas:25,
         x:111,
         y:111
     },
@@ -123,7 +123,7 @@ const nivel =[
         nivel:16,
         texto:"Soy un texto ignaciano16",
         imagen:"../assets/img/ignacio16.png",
-        numPiezas:"25",
+        numPiezas:25,
         x:111,
         y:111
     }
