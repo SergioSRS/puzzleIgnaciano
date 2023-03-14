@@ -1,7 +1,7 @@
 const nivel =[
     {
         nivel:1,
-        texto:"Soy un texto ignaciano1",
+        texto:"San Ignacio de Loyola nació en el Castillo de Loyola, en Azpeitia, España, el 23 de octubre de 1491. Tuvo una infancia privilegiada debido a que nació en una familia noble. Pasaba su tiempo libre en el castillo de su familia, donde se dedicaba a la caza, la pesca y a jugar con sus amigos. También disfrutaba de las historias y canciones que le contaban los juglares. A pesar de tener una vida llena de comodidades, San Ignacio tuvo que aprender a ser responsable desde muy joven. Como el menor de trece hermanos, a menudo se le pedía que ayudara en la gestión de las finanzas de la familia y en la toma de decisiones. San Ignacio tenía un carácter aventurero y curioso, lo que lo llevaba a tener una mente abierta y a buscar nuevas experiencias. Esta personalidad le ayudó a explorar sus intereses y a descubrir su verdadera vocación en la vida más tarde.",
         imagen:"../assets/img/ignacio1.png",
         numPiezas:4,
         x:437,
@@ -9,7 +9,7 @@ const nivel =[
     },
     {
         nivel:2,
-        texto:"Soy un texto ignaciano2",
+        texto:"San Ignacio inició su carrera como militar del reino de Castilla. En 1521, edad cayó herido en la Batalla de Pamplona. Este acontecimiento fue determinante para la vida de San Ignacio, ya que comenzó a reflexionar acerca de su vida y comenzó a interesarse y leer por los temas religiosos y espirituales asociados a la iglesia católica mientras reposaba su herida causada en la batalla.",
         imagen:"../assets/img/ignacio2.png",
         numPiezas:4,
         x:435,
@@ -25,7 +25,7 @@ const nivel =[
     },
     {
         nivel:4,
-        texto:"Soy un texto ignaciano4",
+        texto:"En febrero de 1522 Ignacio emprende su camino hacia Jerusalén para la conversión de los no cristianos en Tierra Santa. Abandona su vida mundana,  dejando atrás a su hermano, a su cuñada y la casa Loyola. De camino paró en el santuario de Aránzazu e hizo voto de castidad. Continuó su camino hasta el Monasterio de Monserrat donde decidió hospedarse.",
         imagen:"../assets/img/ignacio4.png",
         numPiezas:4,
         x:434,
@@ -49,19 +49,19 @@ const nivel =[
     },
     {
         nivel:7,
-        texto:"Soy un texto ignaciano7",
+        texto:"Su amiga Isabel Roser le dio el consejo de que empezase a estudiar. San Ignacio aprendío latín y se apuntó a la universidad. Estudió en Alcalá de Henares desde el año 1526 hasta 1527; estuvo viviendo y trabajando en el Hospital de Antezana como enfermero y como cocinero para los enfermos.",
         imagen:"../assets/img/ignacio7.png",
         numPiezas:9,
-        x:111,
-        y:111
+        x:295,
+        y:207
     },
     {
         nivel:8,
-        texto:"Soy un texto ignaciano8",
+        texto:"Posteriormente, en julio de 1527, Ignacio fue a Salamanca, hablando a todos sobre sus ejercicios espirituales, cosa que no fue bien vista por las autoridades y le acarreó algunos problemas, y lo llegaron a encarcelar, el santo estuvo en la cárcel salmantina 22 días. En vista de la falta de libertad para su plática en España, decidió estudiar en París. Hacia mediados de septiembre de 1527, 15 o 20 días después de salir de la cárcel, Ignacio partió hacía París llevando unos libros en un asnillo.",
         imagen:"../assets/img/ignacio8.png",
         numPiezas:9,
-        x:111,
-        y:111
+        x:293,
+        y:207
     },
     {
         nivel:9,
@@ -73,7 +73,7 @@ const nivel =[
     },
     {
         nivel:10,
-        texto:"Soy un texto ignaciano10",
+        texto:"La fundación de la Compañía de Jesús tuvo lugar en una capilla en París, Francia, en 1534. Allí, San Ignacio de Loyola y un grupo de amigos se reunieron para establecer una comunidad de hombres dedicados a trabajar por la fe y la justicia en todo el mundo. Juntos, hicieron un voto de pobreza y se comprometieron a vivir juntos como una comunidad religiosa. Esta comunidad llegó a ser conocida como la Compañía de Jesús o los jesuitas y se dedicó a la educación, a ayudar a los más necesitados y a propagar la palabra de Dios en todo el mundo. La fundación de la Compañía de Jesús fue un momento importante en la historia de la Iglesia Católica y su legado sigue vivo hoy en día.",
         imagen:"../assets/img/ignacio10.png",
         numPiezas:16,
         x:227,
@@ -84,8 +84,8 @@ const nivel =[
         texto:"Soy un texto ignaciano11",
         imagen:"../assets/img/ignacio11.png",
         numPiezas:16,
-        x:111,
-        y:111
+        x:220,
+        y:155
     },
     {
         nivel:12,
@@ -97,15 +97,15 @@ const nivel =[
     },
     {
         nivel:13,
-        texto:"Soy un texto ignaciano13",
+        texto:"El papa Paulo III les dio la aprobación y les permitió ordenarse sacerdotes. El obispo de Arbe les ordenó en Venecia el 24de junio de 1538. San Ignacio de Loyola dió su primera misa en la noche de navidad del 1538. Todo este tiempo se dedicaron al trabajo caritativo y predicar en Italia. Fue a Roma a pedir permiso para ir a Jerusalén, pero por luchas no pudieron llegar a Jerusalén y se pusieron a las órdenes del Papa.",
         imagen:"../assets/img/ignacio13.png",
         numPiezas:25,
-        x:111,
-        y:111
+        x:183,
+        y:134
     },
     {
         nivel:14,
-        texto:"Soy un texto ignaciano14",
+        texto:"En 1540 el Papa Paulo III pidió al jesuita español Francisco Javier que partiese de Roma, hacia diferentes países asiáticos como China, las Indias Orientales, y la recién descubierta Japón junto con sus compañeros Cosme de Torres y Juan Fernández. En ese mismo año el Papa aprobó la fundación de la Compañía de Jesús.",
         imagen:"../assets/img/ignacio14.png",
         numPiezas:25,
         x:177,
@@ -116,15 +116,15 @@ const nivel =[
         texto:"En octubre de 1538, Ignacio se encaminó hacia Roma, junto con Fabre y Laínez, para la aprobación de la constitución de la nueva orden. Un grupo de cardenales se mostró a favor de la constitución y Paulo III confirmó la orden mediante la bula Regimini militantis (27 de septiembre de 1540), pero limitaba el número de sus miembros a sesenta. Esta limitación fue revocada a través de la bula Injunctum nobis (14 de marzo de 1543). Así nacía la Societas Iesu, la Compañía de Jesús o, como se le conoce comúnmente, «los Jesuitas».",
         imagen:"../assets/img/ignacio15.png",
         numPiezas:25,
-        x:111,
-        y:111
+        x:175,
+        y:131
     },
     {
         nivel:16,
-        texto:"Soy un texto ignaciano16",
+        texto:"Llevamos más de 500 años conmemorando el momento en el que a San Ignacio de Loyola le hieren en la pierna, momento en el que se replantea su camino y encontró su vocación. Por tal motivo, el mensaje subyacente del “Año Ignaciano” es la conversión; el tema es «ver todas las cosas nuevas en Cristo».",
         imagen:"../assets/img/ignacio16.png",
         numPiezas:25,
-        x:111,
-        y:111
+        x:183,
+        y:124
     }
 ]
